@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-goodness/) 
 [![X](https://img.shields.io/badge/X-111111?logo=x&logoColor=white)](https://x.com/synotrixx)
-[![Resume](https://img.shields.io/badge/Resume-PDF-informational)](https://drive.google.com/file/d/1xYsF28bxycaUfdwY6FH2DKsVoEN9ztte/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white)](mailto:goodnessojonuba@gmail.com)
 
 [![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cbd3ce13-ffb7-44db-bd3f-297454219185/linked_in_profile)
