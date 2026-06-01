@@ -1,88 +1,94 @@
-# Hi, I'm Goodness Ojonuba 👋
+# Goodness Ojonuba
 
-**AWS Certified Solution Architect Associate** • DevOps Engineer • Cloud & Systems Explorer
+**Cloud & DevOps Engineer · AWS Certified Solutions Architect – Associate**
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-goodness/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sy-goodness/)
 [![X](https://img.shields.io/badge/X-111111?logo=x&logoColor=white)](https://x.com/synotrixx)
 [![Email](https://img.shields.io/badge/Email-EB4432?logo=gmail&logoColor=white)](mailto:goodnessojonuba@gmail.com)
-
-[![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cbd3ce13-ffb7-44db-bd3f-297454219185/linked_in_profile)
-
 [![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/6ec0af32-fab1-4e0c-b36f-ca4ee83445b8/public_url)
 
+---
 
+## About
 
+I design, deploy, and automate modern cloud infrastructure with a focus on reliability, scalability, and operational efficiency.
+
+My work spans Infrastructure as Code, cloud architecture, CI/CD automation, containerized workloads, and observability. I build systems that reduce manual effort, enforce deployment consistency, and hold up under production conditions.
+
+- **Focus:** Cloud Infrastructure · DevOps · IaC · CI/CD · Containers · Monitoring
+- **Building:** Reliable, automated, and scalable cloud systems
+- **Open to:** Cloud Engineering · DevOps Engineering · Platform Engineering · Infrastructure roles
 
 ---
 
-### 🌍 About Me
-I work at the intersection of **cloud infrastructure** and **systems design**. I enjoy turning ideas into *reliable, observable, and scalable* services. Optimization and system design excite me, so I focus on IaC, container orchestration, and continuous delivery.
+## Tech Stack
 
-**Snapshot**
-- 🏷️ **Focus:** AWS, Infrastructure as Code, CI/CD, Containers, Monitoring   
-- 🧭 **Goal:** Grow into a cloud + devOps role building efficient, secure systems  
-- 🤝 **Open to:** Cloud projects, DevOps, system design discussions  
-
----
-
-### ⚙️ Tech & Tools
-
-| Category | Tools |
-|----------|-------|
-| **Cloud** | AWS (EC2, S3, IAM, VPC, CloudWatch, ECS/EKS, Lambda) |
-| **Containers** | Docker, Kubernetes |
-| **Infrastructure as Code** | Terraform |
-| **CI/CD** | GitHub Actions, AWS CodePipeline |
-| **Monitoring** | Prometheus, Grafana, CloudWatch |
-| **Languages** | Python, Bash |
-| **Databases** | PostgreSQL, MySQL, DynamoDB |
-| **Practices** | Git, Code Reviews, Design Docs, Testing |
+| Category | Technologies |
+|---|---|
+| Cloud | AWS — EC2, S3, IAM, VPC, CloudWatch, ECS, EKS, Lambda |
+| Containers | Docker, Kubernetes |
+| Infrastructure as Code | Terraform |
+| CI/CD | GitHub Actions, AWS CodePipeline |
+| Monitoring & Observability | Prometheus, Grafana, CloudWatch |
+| Operating Systems | Linux |
+| Scripting & Programming | Python, Bash |
+| Databases | PostgreSQL, MySQL, DynamoDB |
+| Practices | Git, Code Reviews, Testing, Documentation |
 
 ---
 
-### 🚀 Featured Projects
+## Projects
 
-<details open>
-<summary><strong>LAMP Stack Deployment</strong></summary>
+### LAMP Stack Deployment
+> Linux · Apache · MySQL · PHP
 
-- **Repo:** [github.com/22trix/Lamp-stack](https://github.com/22trix/Lamp-stack)  
-- **What it is:** Automated provisioning of a Linux, Apache, MySQL, PHP stack.  
-- **Focus:** Infrastructure setup, configuration management, reproducibility.  
-</details>
+Provisioned and configured a complete LAMP environment from scratch. Automated the setup and configuration process using reproducible deployment practices, reinforcing server administration and systems management fundamentals.
 
-<details>
-<summary><strong>Socks Shop Microservices App</strong></summary>
-
-- **Repo:** [github.com/22trix/My_sock_app](https://github.com/22trix/My_sock_app)  
-- **What it is:** Deployed a microservices-based demo app on Kubernetes using IaC.  
-- **Focus:** Kubernetes orchestration, Terraform automation, CI/CD pipelines.  
-</details>
-
-<details>
-<summary><strong>Static Website on AWS (Terraform IaC)</strong></summary>
-
-- **Repo:** [github.com/22trix/A-Static-Website-on-AWS-using-Terraform-Iac](https://github.com/22trix/A-Static-Website-on-AWS-using-Terraform-Iac)  
-- **What it is:** Infrastructure as Code deployment of a static website hosted on AWS.  
-- **Focus:** Scalability, security groups, S3 hosting, automated provisioning.  
-</details>
+[View Repository →](https://github.com/22trix/Lamp-stack)
 
 ---
 
-### 🎓 Certifications
-- **AWS Certified Solutions Architect Associate** — [verify](https://www.credly.com/badges/6ec0af32-fab1-4e0c-b36f-ca4ee83445b8/public_url)   
-- **AWS Certified Cloud Practitioner** — [verify](https://www.credly.com/badges/cbd3ce13-ffb7-44db-bd3f-297454219185/linked_in_profile)  
+### Socks Shop Microservices Application
+> Kubernetes · Docker · Terraform · CI/CD
 
+Deployed a microservices application on Kubernetes with Terraform-provisioned infrastructure. Implemented deployment automation workflows and worked across containerized services and orchestration tooling.
 
----
-
-### 📫 Contact
-- Email: [goodnessojonuba@gmail.com](mailto:goodnessojonuba@gmail.com)  
-- LinkedIn: [linkedin.com/in/sy-goodness](https://www.linkedin.com/in/sy-goodness/)  
-- Resume: [View here](https://drive.google.com/file/d/1xYsF28bxycaUfdwY6FH2DKsVoEN9ztte/view?usp=sharing)  
-- Twitter/X: [@synotrixx](https://x.com/synotrixx)  
+[View Repository →](https://github.com/22trix/My_sock_app)
 
 ---
 
-If you’re working on something interesting in collaborating, **[reach out](mailto:goodnessojonuba@gmail.com)**. Always happy to learn and collaborate.
+### Static Website on AWS with Terraform
+> AWS · Terraform · S3 · IAM
+
+Automated full AWS infrastructure provisioning using Terraform to deploy a static website. Applied IaC principles for repeatable, scalable deployments alongside AWS networking and security best practices.
+
+[View Repository →](https://github.com/22trix/A-Static-Website-on-AWS-using-Terraform-Iac)
+
+---
+
+## Certifications
+
+**AWS Certified Solutions Architect – Associate**
+[Verify on Credly →](https://www.credly.com/badges/6ec0af32-fab1-4e0c-b36f-ca4ee83445b8/public_url)
+
+---
+
+## Current Focus
+
+- Infrastructure Automation
+- Cloud Architecture
+- CI/CD Pipelines
+- Kubernetes & Container Orchestration
+- Monitoring & Observability
+- Platform Engineering Practices
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/sy-goodness](https://www.linkedin.com/in/sy-goodness/)
+- **Email:** [goodnessojonuba@gmail.com](mailto:goodnessojonuba@gmail.com)
+- **X:** [x.com/synotrixx](https://x.com/synotrixx)
+- **Resume:** [View on Google Drive](https://drive.google.com/file/d/1xYsF28bxycaUfdwY6FH2DKsVoEN9ztte/view)
+
+If you're working on cloud infrastructure, automation, DevOps, or platform engineering — let's connect.
