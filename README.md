@@ -39,21 +39,21 @@ My work spans Infrastructure as Code, cloud architecture, CI/CD automation, cont
 
 ## Projects
 
+### EpicBook Application — CI/CD Dual Pipeline Deployment
+> Azure DevOps · Terraform · Ansible · Linux · Nginx · Node.js
+
+Architected a two-repository DevOps workflow cleanly separating infrastructure provisioning from application deployment, improving maintainability and team collaboration. Built an Azure DevOps CI/CD pipeline that provisions infrastructure with Terraform and automatically deploys application updates, reducing manual deployment effort by 70%. Automated server configuration using Ansible roles and dynamic inventory for zero-touch environment setup, with Terraform output variables feeding directly into the Ansible pipeline for seamless infrastructure-to-application handoff. Deployed and validated the full stack through Nginx, confirming end-to-end functionality and public accessibility post-deployment.
+
+[Infrastructure Repo →](https://github.com/Goodnessoj/infra-epicbook) · [App Repo →](https://github.com/Goodnessoj/app-deploy-epicbook)
+
+---
+
 ### Spring PetClinic — Platform Infrastructure on AWS
 > AWS · EKS · Terraform · ArgoCD · Helm · Prometheus · Grafana · GitHub Actions
 
 End-to-end platform infrastructure for deploying the Spring PetClinic microservices application on AWS. Provisioned a production-grade EKS cluster with Terraform across a custom VPC, implemented GitOps-based continuous delivery with ArgoCD and Helm, and built an observability stack using Prometheus and Grafana. CI/CD pipelines via GitHub Actions automate image builds and deployments from commit to cluster.
 
 [View Repository →](https://github.com/Goodnessoj/platform-petclinic)
-
----
-
-### LAMP Stack Deployment
-> Linux · Apache · MySQL · PHP
-
-Provisioned and configured a complete LAMP environment from scratch. Automated the setup and configuration process using reproducible deployment practices, reinforcing server administration and systems management fundamentals.
-
-[View Repository →](https://github.com/22trix/Lamp-stack)
 
 ---
 
