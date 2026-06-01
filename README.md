@@ -39,6 +39,15 @@ My work spans Infrastructure as Code, cloud architecture, CI/CD automation, cont
 
 ## Projects
 
+### Spring PetClinic — Platform Infrastructure on AWS
+> AWS · EKS · Terraform · ArgoCD · Helm · Prometheus · Grafana · GitHub Actions
+
+End-to-end platform infrastructure for deploying the Spring PetClinic microservices application on AWS. Provisioned a production-grade EKS cluster with Terraform across a custom VPC, implemented GitOps-based continuous delivery with ArgoCD and Helm, and built an observability stack using Prometheus and Grafana. CI/CD pipelines via GitHub Actions automate image builds and deployments from commit to cluster.
+
+[View Repository →](https://github.com/Goodnessoj/platform-petclinic)
+
+---
+
 ### LAMP Stack Deployment
 > Linux · Apache · MySQL · PHP
 
@@ -48,21 +57,12 @@ Provisioned and configured a complete LAMP environment from scratch. Automated t
 
 ---
 
-### Socks Shop Microservices Application
-> Kubernetes · Docker · Terraform · CI/CD
+### Book Review App — AWS Infrastructure with Terraform
+> AWS · Terraform · VPC · EC2 · RDS · S3 · IAM
 
-Deployed a microservices application on Kubernetes with Terraform-provisioned infrastructure. Implemented deployment automation workflows and worked across containerized services and orchestration tooling.
+Designed and provisioned the full AWS infrastructure for a book review application using Terraform. Built a modular IaC codebase covering networking (VPC, subnets, security groups), compute, managed database, and storage layers. Focused on reusability, least-privilege IAM design, and clean separation of infrastructure concerns.
 
-[View Repository →](https://github.com/22trix/My_sock_app)
-
----
-
-### Static Website on AWS with Terraform
-> AWS · Terraform · S3 · IAM
-
-Automated full AWS infrastructure provisioning using Terraform to deploy a static website. Applied IaC principles for repeatable, scalable deployments alongside AWS networking and security best practices.
-
-[View Repository →](https://github.com/22trix/A-Static-Website-on-AWS-using-Terraform-Iac)
+[View Repository →](https://github.com/Goodnessoj/book-review-terraform-iac)
 
 ---
 
@@ -81,6 +81,19 @@ Automated full AWS infrastructure provisioning using Terraform to deploy a stati
 - Kubernetes & Container Orchestration
 - Monitoring & Observability
 - Platform Engineering Practices
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goodnessoj&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goodnessoj&layout=compact&theme=dark&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goodnessoj&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
