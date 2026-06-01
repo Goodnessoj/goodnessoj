@@ -102,6 +102,6 @@ Designed and provisioned the full AWS infrastructure for a book review applicati
 - **LinkedIn:** [linkedin.com/in/sy-goodness](https://www.linkedin.com/in/sy-goodness/)
 - **Email:** [goodnessojonuba@gmail.com](mailto:goodnessojonuba@gmail.com)
 - **X:** [x.com/synotrixx](https://x.com/synotrixx)
-- **Resume:** [View on Google Drive](https://drive.google.com/file/d/1xYsF28bxycaUfdwY6FH2DKsVoEN9ztte/view)
+- **Resume:** [View on Google Drive](https://drive.google.com/file/d/1-fx8kgNH6IMDNgD63DWS4JuFsAmjdLL4/view?)
 
 If you're working on cloud infrastructure, automation, DevOps, or platform engineering — let's connect.
